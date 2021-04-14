@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Henlo peeps!
+Chinab here, I've been learning coding for quite a few time now but consider me a noob. 
